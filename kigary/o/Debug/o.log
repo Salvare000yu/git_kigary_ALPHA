@@ -1,0 +1,3 @@
+﻿NotesData.obj : error LNK2005: "bool (* notesData)[2]" (?notesData@@3PAY01_NA) は既に main.obj で定義されています。
+NotesData.obj : error LNK2005: "bool (* notesFlag)[2]" (?notesFlag@@3PAY01_NA) は既に main.obj で定義されています。
+C:\Users\ゆー\Desktop\飢餓R\o\Debug\o.exe : fatal error LNK1169: 1 つ以上の複数回定義されているシンボルが見つかりました。
