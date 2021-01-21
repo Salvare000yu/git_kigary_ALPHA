@@ -1,0 +1,5 @@
+﻿  Notes.cpp
+  main.cpp
+C:\K020G1187\Private\★Github\public\hungerhythm\hungerhythm~飢餓リズム~\hungerhythm\main.cpp(91,31): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  hungerhythm.vcxproj -> C:\K020G1187\Private\★Github\public\hungerhythm\hungerhythm~飢餓リズム~\Debug\hungerhythm.exe
